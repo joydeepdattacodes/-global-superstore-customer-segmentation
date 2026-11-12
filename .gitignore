@@ -1,0 +1,10 @@
+# data & secrets
+*.csv
+.env
+# python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# OS
+.DS_Store
+Thumbs.db
