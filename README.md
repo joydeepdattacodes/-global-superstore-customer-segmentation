@@ -213,7 +213,7 @@ pip install -r requirements.txt
 # 2. Load the data into PostgreSQL (see data/README.md), then run sql/01 ... sql/04 in order
 
 # 3. Set database credentials (never commit passwords)
-export PGUSER=postgres PGPASSWORD=Acdb@123 PGDATABASE=superstore_project
+export PGUSER=postgres PGPASSWORD=yourpassword PGDATABASE=superstore_project
 
 
 # 4. Run notebooks in order
