@@ -232,6 +232,6 @@ jupyter notebook notebooks/
 
 **[Joydeep Datta]** - BSc Statistics (Honours), Banaras Hindu University. Aspiring Data Analyst focused on SQL, Python and business problem solving.
 
-[LinkedIn](www.linkedin.com/in/joydeep-datta-435368414)| [Email](joydeepdatta.dv@gmail.com) | [Portfolio](https://github.com/joydeepdattacodes)
+[LinkedIn](https://www.linkedin.com/in/joydeep-datta-435368414)| [Email](mailto:joydeepdatta.dv@gmail.com) | [Portfolio](https://github.com/joydeepdattacodes)
 
 <p align="center"><sub>If you found this useful, a star on the repo is appreciated.</sub></p>
